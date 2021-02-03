@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "95812200363",
+    "firebase_url": "https://databukuperpustakaan-default-rtdb.firebaseio.com",
+    "project_id": "databukuperpustakaan",
+    "storage_bucket": "databukuperpustakaan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95812200363:android:563879c35c516e5a7a14ee",
+        "android_client_info": {
+          "package_name": "com.databuku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95812200363-rgt0qk624i80umro4ujmi0dn3pf6k0t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo3KilVjnVRkEYW9Zwm4hJ9Ydf8d2eFG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95812200363-rgt0qk624i80umro4ujmi0dn3pf6k0t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
